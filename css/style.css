@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  padding-top: 50px;
+  align-items: center;
+  background: #000;
+  flex-direction: column;
+}
+
+.container {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  max-height: 300px;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
